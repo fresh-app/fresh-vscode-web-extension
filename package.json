@@ -4,7 +4,7 @@
   "description": "",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.86.0"
+    "vscode": "^1.87.0"
   },
   "categories": [
     "Other"
@@ -30,7 +30,7 @@
     "run-in-browser": "vscode-test-web --browserType=chromium --extensionDevelopmentPath=. ."
   },
   "devDependencies": {
-    "@types/vscode": "^1.86.0",
+    "@types/vscode": "^1.87.0",
     "@types/mocha": "^10.0.6",
     "@types/assert": "^1.5.10",
     "eslint": "^8.56.0",
