@@ -38,7 +38,7 @@
     "@typescript-eslint/parser": "^8.31.1",
     "mocha": "^11.1.0",
     "typescript": "^5.8.3",
-    "@vscode/test-web": "^0.0.69",
+    "@vscode/test-web": "^0.0.71",
     "ts-loader": "^9.5.2",
     "webpack": "^5.99.7",
     "webpack-cli": "^6.0.1",
